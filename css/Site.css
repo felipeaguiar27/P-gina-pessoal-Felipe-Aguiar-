@@ -1,0 +1,32 @@
+body{
+    background: url("../imagens/98502660-8f50-485a-860a-7e9c7f3fb20e.webp");
+    background-size: 1000 100vh;
+    background-repeat: no-repeat;
+    font-family: Arial;
+    height: auto;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .menu{
+    background-color: Black;
+  }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  a{
+    color: #432355;
+   text-decoration: none;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    color: Black;
+    text-align: center;
+  }
